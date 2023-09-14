@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
   m_Name: SetAllPlayersMaxAudioDistance
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 21b1313dfc9ed464b88497c5c5612a64,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 7daa0d3b284f5664fbe30be367a8dc67,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n    .export maxDistance\r\n    \r\n    __index_0:
     %SystemInt32, null\r\n    __condition_0: %SystemBoolean, null\r\n    __Boolean_0:
